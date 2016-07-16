@@ -1,0 +1,15 @@
+#!/bin/bash
+list='
+License
+Makefile
+mktar
+README
+sourceme
+TODO
+doc
+src
+'
+
+for i in $list; do
+  tar -cvf maskeraid.tar $list
+done
