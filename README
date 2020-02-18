@@ -1,6 +1,6 @@
 
 The Fortran API is not ready yet.
-
+The Fortran API was completed some time ago.  Why is this here?
 
 Maskeraid was originally designed just to display the affinity (mask) of processes that
 are launched by an MPI executable launcher (mpirun, mpiexec, TACC ibrun, etc.).
