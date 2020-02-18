@@ -1,4 +1,6 @@
 #!/bin/bash
+#just a comment
+#please remove this comment.
 list='
 License
 Makefile
