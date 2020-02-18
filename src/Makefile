@@ -7,7 +7,7 @@ LD_OMP  =   icc -qopenmp
 LD_HYB  = mpicc -qopenmp
 
 AR      = ar
-
+# comment on line 10, now do pull request.
 ifeq ($(TACC_SYSTEM),stampede)
    LOAD_X=-xhost
    LOAD_DEF=-DSP1
